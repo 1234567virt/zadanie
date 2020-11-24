@@ -1,0 +1,21 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+#templatemo_body_wrapper {
+width: 100%;
+height:100%;
+
+}
+
+#templatemo_wrapper {
+width: 980px;
+margin: 0 auto;
+}
+
+#templatemo_menubar {
+width: 980px;
+height: 60px; 
+
+}

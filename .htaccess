@@ -1,0 +1,6 @@
+<IfModule mod_rewrite.c>
+
+
+AddDefaultCharset off
+Redirect 301 /index.php /public_html/notice.php
+</IfModule>

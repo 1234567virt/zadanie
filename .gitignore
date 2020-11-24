@@ -1,0 +1,9 @@
+*.log
+access.log
+error.log
+/logs
+/.vscode
+/vendor
+/img
+/public_html/img
+/public_html/img/*.jpg

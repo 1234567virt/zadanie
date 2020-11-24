@@ -1,0 +1,33 @@
+#form {
+    margin-top:13%;
+    margin-left:30%;
+    display:none;
+}
+#past{
+    margin:3% 30% -10% 50%;   
+}
+
+#info{
+   margin-left:15%;
+   width:70%;
+}
+#limcoment{
+    margin-top:5px;
+    padding-left:150px;
+}
+.data{
+    font-size:18px;
+    font-weight:700;
+}
+#inputAftor{
+    font-size:18px;
+    font-weight:700;
+    padding-left:10px;
+}
+#inputText{
+   font-style:italic;
+}
+#inputDel{
+   padding-left:-100px;
+   font-style:italic;
+}
